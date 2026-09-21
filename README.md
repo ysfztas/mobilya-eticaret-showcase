@@ -2,6 +2,8 @@
 
 **Mobilya mağazası için e-ticaret sitesi ve yönetim paneli.**
 
+🔗 **Canlı:** [oztasmobilya.com](https://oztasmobilya.com)
+
 > Kaynak kod private. Bu depo projenin tanıtım sayfasıdır. İstek üzerine demo yapılabilir.
 
 ## Özellikler
